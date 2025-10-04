@@ -1,6 +1,6 @@
-# Chiffrement Polybe (Polybius) — script Python
+# Chiffrement Polybe 
 
-Ce dépôt contient un petit script Python qui chiffre une chaîne de caractères en utilisant le carré de Polybe (Polybius square). Le script fourni présente une implémentation simple et pédagogique adaptée aux alphabets latins de base, en traitant la lettre **J** comme équivalente de **I** (convention courante pour les carrés de Polybe à 5×5).
+Ce dépôt contient un petit script Python qui chiffre une chaîne de caractères en utilisant le carré de Polybe . Le script fourni présente une implémentation simple et pédagogique adaptée aux alphabets latins de base, en traitant la lettre **J** comme équivalente de **I** (convention courante pour les carrés de Polybe à 5×5).
 
 ---
 
